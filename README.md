@@ -13,7 +13,7 @@ Contains scripts for computing various 3D stone properties, including:
 - Shape factor computation
 
 To compute:
-run ('main_script.m')
+`run('main_script.m')`
 
 ### 02_line_of_minimum_trace
 Contains scripts for computing and analyzing the line of minimum trace for: 
@@ -22,7 +22,7 @@ Contains scripts for computing and analyzing the line of minimum trace for:
 - Assessment of wall leaf connections
 
 To compute:
-run ('line_minimum_trace.m')
+`run('line_minimum_trace.m')`
 
 
 ## Prerequisites
